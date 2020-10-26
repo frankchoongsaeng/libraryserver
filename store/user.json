@@ -1,0 +1,9 @@
+{
+  "_id": "001",
+  "user_details": {
+    "first name": "Frank",
+    "last name": "Choongsaeng",
+    "username": "frankchoongsaeng",
+    "password": "12345"
+  } 
+}
